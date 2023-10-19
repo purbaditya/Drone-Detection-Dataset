@@ -7,16 +7,9 @@ The dataset can be found here
 https://mega.nz/file/aro2VZCK#0qcLqHvfc7X-SV3caVkvCypWF4Hl9QxhCfCv1xv2vY0
 
 # Folder Structure
-FLIR/
-    Campus/
-          Images/
-                FLIR0002010/
-                           *.jpg
-FLIR/
-    Campus/
-          Labels/
-                FLIR0002010_Pascal_VOC/
-                                      *.xml
+FLIR/Campus/Images/FLIR0002010/*.jpg
+
+FLIR/Campus/Labels/FLIR0002010_Pascal_VOC/*.xml
 
 # Citation
 Hopefully, the dataset and its future extensions can be useful for any work related to drone activity monitoring. Kindly refer to the following paper (to be published) if you are using the dataset
