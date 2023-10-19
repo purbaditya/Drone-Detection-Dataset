@@ -13,9 +13,9 @@ from pascal_voc_writer import Writer
 from PIL import Image
 
 class config:
-    LABEL_DIR = "\\\\FLIR\\Campus\\Labels\\FLIR0002010" # path to text label files (for YOLO)
-    IMAGE_DIR = "\\\\FLIR\\Campus\\Images\\FLIR0002010"
-    XML_DIR   = "\\\\FLIR\\Campus\\Labels\\FLIR0002010_Pascal_VOC"
+    LABEL_DIR = "\\data\\FLIR\\Campus\\Labels\\FLIR0002010" # path to text label files (for YOLO)
+    IMAGE_DIR = "\\data\\FLIR\\Campus\\Images\\FLIR0002010"
+    XML_DIR   = "\\data\\FLIR\\Campus\\Labels\\FLIR0002010_Pascal_VOC"
 
     names = [
         "drone"
