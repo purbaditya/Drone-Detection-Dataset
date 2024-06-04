@@ -12,6 +12,6 @@ FLIR/Campus/Images/FLIR0002010/*.jpg
 FLIR/Campus/Labels/FLIR0002010_Pascal_VOC/*.xml
 
 # Citation
-Hopefully, the dataset and its future extensions can be useful for any work related to drone activity monitoring. Kindly refer to the following paper (to be published) if you are using the dataset
+The Dataset will be extended with RGB images and annotations as well. Hopefully, the dataset and its future extensions can be useful for any work related to drone activity monitoring. Kindly refer to the following paper if you are using the dataset
 
 P. Bhattacharya, P. Nowak, D. Ahlers, and U. Zölzer, "A Dataset of Infrared Images for Deep Learning based Drone Detection", in _17th International Conference on Signal Image Technology & Internet based Systems (SITIS)_, 2023.
