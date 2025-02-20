@@ -5,6 +5,7 @@ A pubic drone dataset containing images of drones from different cameras of diff
 The dataset can be found here
 
 https://mega.nz/file/aro2VZCK#0qcLqHvfc7X-SV3caVkvCypWF4Hl9QxhCfCv1xv2vY0
+https://mega.nz/folder/muxnXIYA#sjh5rwqi4Oz3tUfqTR7Ljw
 
 # Folder Structure
 FLIR/Campus/Images/FLIR0002010/*.jpg
